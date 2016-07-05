@@ -3759,7 +3759,7 @@
 			position: relative;
 			text-decoration: none;
 			text-transform: uppercase;
-			border: 1px solid !important;
+			border: 1px solid;
 			border-radius: 8px;
 			text-align: center;
 		}
