@@ -3255,11 +3255,12 @@
 		.wrapper.style1 {
 			background-color: #fbc91c;
 		}
-
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #fbc91c;
 		}
-
+		.wrapper.style1 p {
+			color: #666;
+		}
 		.wrapper.style2 {
 			background-color: #5052b5;
 		}
