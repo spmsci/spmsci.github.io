@@ -3759,6 +3759,9 @@
 			position: relative;
 			text-decoration: none;
 			text-transform: uppercase;
+			border: 1px solid !important;
+			border-radius: 8px;
+			text-align: center;
 		}
 
 			#sidebar nav a:before {
