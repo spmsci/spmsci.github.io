@@ -2660,7 +2660,7 @@
 
 		ul li {
 			padding-left: 0.5em;
-			color: #111;
+			color: #666;
 		}
 		ul.alt {
 			list-style: none;
@@ -3274,7 +3274,7 @@
 			background-color: #de2229;
 		}
 		.style1 p, .style2 p {
-			color: #555;
+			color: #333;
 		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
