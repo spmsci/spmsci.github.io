@@ -2661,7 +2661,9 @@
 		ul li {
 			padding-left: 0.5em;
 		}
-
+		ul li a{
+			color: #111;
+		}
 		ul.alt {
 			list-style: none;
 			padding-left: 0;
