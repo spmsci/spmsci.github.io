@@ -2660,8 +2660,6 @@
 
 		ul li {
 			padding-left: 0.5em;
-		}
-		ul li a{
 			color: #111;
 		}
 		ul.alt {
@@ -3260,9 +3258,6 @@
 		.wrapper.style1-alt {
 			background-color: #fbc91c;
 		}
-		.style1 p {
-			color: #666;
-		}
 		.wrapper.style2 {
 			background-color: #83c2a5;
 		}
@@ -3279,7 +3274,7 @@
 			background-color: #de2229;
 		}
 		.style1 p, .style2 p {
-			color: #666;
+			color: #555;
 		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
