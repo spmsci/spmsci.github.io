@@ -3276,6 +3276,9 @@
 		.style1 p, .style2 p {
 			color: #333;
 		}
+		.style3 p{
+			color: #FFF;
+		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
